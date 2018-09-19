@@ -1,0 +1,19 @@
+h1 {
+	font-size: 60px;
+}
+
+h4 {
+	font-size: 23px;
+}
+
+.title {
+	color: #7d97ad;
+}
+
+.featured-work {
+	color: #2d3c49;	
+}
+
+.img-responsive {
+	width: 100%;
+}
